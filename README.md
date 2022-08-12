@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanakya2k3
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,c/c++,java
 - 📫 How to reach me ...https://www.linkedin.com/in/chanakya-shivaji-a56473220/
 
 <!---
